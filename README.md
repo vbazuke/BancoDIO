@@ -2,7 +2,7 @@
 
 Projeto desenvolvido para o bootcamp .NET Fundamentals da DIO. Este é o repo com a aplicação original criada por Eliézer Zarpelão https://github.com/elizarp/dio-dotnet-poo-lab-1.
 
-A aplicação simula um sistema de gerenciamento bancário simples, com suporte a saque, depósitos e transferência entre contas. Mais informações estão na página do repositório original.
+Trata-se de uma aplicação de console simulando um sistema de gerenciamento bancário simples, com suporte a saque, depósitos e transferência entre contas. Mais informações estão na página do repositório original.
 
 O projeto teve as seguintes alterações como forma de aprendizado:
 
@@ -17,7 +17,7 @@ Foi adicionada uma feature para consulta de valor atual para compra de dólar, c
 
 Requisitos:
 
-.NET 3.1 +
+.NET Core 3.1 +
 
 Para rodar em linha de comando:
 
