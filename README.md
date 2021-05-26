@@ -26,3 +26,5 @@ Para rodar em linha de comando:
 Para buildar o projeto:
 
 `dotnet build`
+
+Caso opte por rodar o projeto dentro do Visual Studio, utilize o caminho absoluto do projeto ao passar a string com o caminho do banco de dados, ao invés de apontar para o arquivo diretamente, (Data Source). Essa mudança deve ser feita no arquivo [a link](https://github.com/vbazuke/BancoDIO/blob/main/BancoContext.cs)
